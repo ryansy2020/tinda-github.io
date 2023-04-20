@@ -1094,6 +1094,8 @@ main {
     visibility: hidden;
 }
 
+
+
 /* ----xx---purchase receipt slider--xx--- */
 
 
@@ -1778,6 +1780,44 @@ main {
         height: 110vh;
         justify-content: flex-start;
 
+    }
+
+    
+    .modal-box-purchase {
+        height: 470px;
+        width: 320px;
+        background: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        box-shadow: 0 10px 10px var(--dark);
+        border-radius: 0.5rem;
+        position: absolute;
+        overflow: hidden;
+        padding: 0.5rem 0rem;
+        visibility: visible;
+        transition: all 0.5s ease-in-out;
+        z-index: 300;
+    }
+
+    .COD-modal {
+        height: 500px;
+        width: 320px;
+        background: white;
+        display: none;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        box-shadow: 0 10px 10px var(--dark);
+        border-radius: 0.5rem;
+        position: absolute;
+        overflow: hidden;
+        padding: 0.5rem 0rem;
+        transform: translateX(-200%);
+        visibility: hidden;
+        transition: all 0.5s ease-in-out;
+        
     }
 
 
