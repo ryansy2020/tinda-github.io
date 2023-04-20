@@ -399,7 +399,7 @@ const clothingWomen = [
         name: "clothes h",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale8.png",
+        img:"./images/shopeefemale8.png",
         images:[
               
             {   id: 0,
@@ -597,7 +597,7 @@ const clothingWomen = [
         name: "clothes n",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale9.png",
+        img:"./images/shopeefemale9.png",
         images:[
               
             {   id: 0,
