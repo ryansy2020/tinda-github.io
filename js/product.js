@@ -102,31 +102,31 @@ const people = [
 
     { 
         id: 1,
-        img: "../images/model6.png",
+        img: "./images/model6.png",
         title: "clothing",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 2,
-        img: "../images/filmediting.png",
+        img: "./images/filmediting.png",
         title: "gadgets & laptop",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 3,
-        img: "../images/labeldesign.png",
+        img: "./images/labeldesign.png",
         title: "beauty products",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 4,
-        img: "../images/eccomerce2.png",
+        img: "./images/eccomerce2.png",
         title: "sportware",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 5,
-        img: "../images/model9.png",
+        img: "./images/model9.png",
         title: "Eyeware & contact lens",
         desk: "Lorem ipsum dolor sit amet.",
     },
