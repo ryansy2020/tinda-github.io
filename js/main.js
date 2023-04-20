@@ -81,31 +81,31 @@ const people = [
 
     { 
         id: 1,
-        img: "../images/model1.png",
+        img: "./images/model1.png",
         title: "clothing",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 2,
-        img: "../images/model2.png",
+        img: "./images/model2.png",
         title: "accesories",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 3,
-        img: "../images/model3.png",
+        img: "./images/model3.png",
         title: "accesories",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 4,
-        img: "../images/model4.png",
+        img: "./images/model4.png",
         title: "accesories",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 5,
-        img: "../images/model8.png",
+        img: "./images/model8.png",
         title: "accesories",
         desk: "Lorem ipsum dolor sit amet.",
     },
@@ -194,31 +194,31 @@ const clothingWomen = [
         name: "clothes A",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img: "../images/shopeefemale1.png",
+        img: "./images/shopeefemale1.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale1.png",},
+                image: "./images/shopeefemale1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale12.png",},
+                image: "./images/shopeefemale12.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale21.png",},
+                image: "./images/shopeefemale21.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale22.png",},
+                image: "./images/shopeefemale22.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale16.png",},
+                image: "./images/shopeefemale16.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale5.png",},
+                image: "./images/shopeefemale5.png",},
         
         ],
     },
@@ -231,27 +231,27 @@ const clothingWomen = [
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale2.png",},
+                image: "./images/shopeefemale2.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale11.png",},
+                image: "./images/shopeefemale11.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale9.png",},
+                image: "./images/shopeefemale9.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale13.png",},
+                image: "./images/shopeefemale13.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale1.png",},
+                image: "./images/shopeefemale1.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale9.png",},
+                image: "./images/shopeefemale9.png",},
         
         ],
     },
@@ -260,23 +260,23 @@ const clothingWomen = [
         name: "clothes c",
         info: "Lorem ipsum dolor sit amet.",
         price: "100",
-        img:"../images/shopeefemale3.png",
+        img:"./images/shopeefemale3.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale3.png",},
+                image: "./images/shopeefemale3.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale4.png",},
+                image: "./images/shopeefemale4.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale5.png",},
+                image: "./images/shopeefemale5.png",},
         
           
             {   id:3,
-                image: "../images/shopeefemale5.png",},
+                image: "./images/shopeefemale5.png",},
         
         ],
     },
@@ -285,23 +285,23 @@ const clothingWomen = [
         name: "clothes d",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale4.png",
+        img:"./images/shopeefemale4.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale3.png",},
+                image: "./images/shopeefemale3.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale4.png",},
+                image: "./images/shopeefemale4.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale5.png",},
+                image: "./images/shopeefemale5.png",},
         
           
             {   id:3,
-                image: "../images/shopeefemale8.png",},
+                image: "./images/shopeefemale8.png",},
         
         ],
     },
@@ -310,23 +310,23 @@ const clothingWomen = [
         name: "clothes e",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale5.png",
+        img:"./images/shopeefemale5.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale3.png",},
+                image: "./images/shopeefemale3.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale4.png",},
+                image: "./images/shopeefemale4.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale5.png",},
+                image: "./images/shopeefemale5.png",},
         
           
             {   id:3,
-                image: "../images/shopeefemale8.png",},
+                image: "./images/shopeefemale8.png",},
         
         ],
     },
@@ -335,31 +335,31 @@ const clothingWomen = [
         name: "clothes f",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale6.png",
+        img:"./images/shopeefemale6.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale6.png",},
+                image: "./images/shopeefemale6.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale12.png",},
+                image: "./images/shopeefemale12.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale21.png",},
+                image: "./images/shopeefemale21.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale22.png",},
+                image: "./images/shopeefemale22.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale16.png",},
+                image: "./images/shopeefemale16.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale5.png",},
+                image: "./images/shopeefemale5.png",},
         
         ],
     },
@@ -368,31 +368,31 @@ const clothingWomen = [
         name: "clothes g",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale7.png",
+        img:"./images/shopeefemale7.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale7.png",},
+                image: "./images/shopeefemale7.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale20.png",},
+                image: "./images/shopeefemale20.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale15.png",},
+                image: "./images/shopeefemale15.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale1.png",},
+                image: "./images/shopeefemale1.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale1.png",},
+                image: "./images/shopeefemale1.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale3.png",},
+                image: "./images/shopeefemale3.png",},
         
         ],
     },
@@ -401,31 +401,31 @@ const clothingWomen = [
         name: "clothes h",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale8.png",
+        img:"./images/shopeefemale8.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale8.png",},
+                image: "./images/shopeefemale8.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale10.png",},
+                image: "./images/shopeefemale10.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale14.png",},
+                image: "./images/shopeefemale14.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale6.png",},
+                image: "./images/shopeefemale6.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale16.png",},
+                image: "./images/shopeefemale16.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
         ],
     },
@@ -434,31 +434,31 @@ const clothingWomen = [
         name: "clothes i",
         info: "Lorem ipsum dolor sit amet.",
         price: "220",
-        img:"../images/shopeefemale9.png",
+        img:"./images/shopeefemale9.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale9.png",},
+                image: "./images/shopeefemale9.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale10.png",},
+                image: "./images/shopeefemale10.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale14.png",},
+                image: "./images/shopeefemale14.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale16.png",},
+                image: "./images/shopeefemale16.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
         ],
     },
@@ -467,31 +467,31 @@ const clothingWomen = [
         name: "clothes j",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale10.png",
+        img:"./images/shopeefemale10.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale9.png",},
+                image: "./images/shopeefemale9.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale10.png",},
+                image: "./images/shopeefemale10.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale14.png",},
+                image: "./images/shopeefemale14.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
         ],
     },
@@ -500,31 +500,31 @@ const clothingWomen = [
         name: "clothes k",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale11.png",
+        img:"./images/shopeefemale11.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale2.png",},
+                image: "./images/shopeefemale2.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale11.png",},
+                image: "./images/shopeefemale11.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale9.png",},
+                image: "./images/shopeefemale9.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale13.png",},
+                image: "./images/shopeefemale13.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale11.png",},
+                image: "./images/shopeefemale11.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale9.png",},
+                image: "./images/shopeefemale9.png",},
         
         ],
     },
@@ -533,31 +533,31 @@ const clothingWomen = [
         name: "clothes l",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale12.png",
+        img:"./images/shopeefemale12.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale1.png",},
+                image: "./images/shopeefemale1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale12.png",},
+                image: "./images/shopeefemale12.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale21.png",},
+                image: "./images/shopeefemale21.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale22.png",},
+                image: "./images/shopeefemale22.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale16.png",},
+                image: "./images/shopeefemale16.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale5.png",},
+                image: "./images/shopeefemale5.png",},
         
         ],
     },
@@ -566,31 +566,31 @@ const clothingWomen = [
         name: "clothes m",
         info: "Lorem ipsum dolor sit amet.",
         price: "320",
-        img:"../images/shopeefemale13.png",
+        img:"./images/shopeefemale13.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale13.png",},
+                image: "./images/shopeefemale13.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale20.png",},
+                image: "./images/shopeefemale20.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale15.png",},
+                image: "./images/shopeefemale15.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale1.png",},
+                image: "./images/shopeefemale1.png",},
         
           
             {   id: 4,
-                image: "../images/png/Shopee_femalemodel.png",},
+                image: "./images/png/Shopee_femalemodel.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale13.png",},
+                image: "./images/shopeefemale13.png",},
         
         ],
     },
@@ -599,31 +599,31 @@ const clothingWomen = [
         name: "clothes n",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale9.png",
+        img:"./images/shopeefemale9.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale9.png",},
+                image: "./images/shopeefemale9.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale10.png",},
+                image: "./images/shopeefemale10.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale14.png",},
+                image: "./images/shopeefemale14.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
         ],
     },
@@ -632,31 +632,31 @@ const clothingWomen = [
         name: "clothes o",
         info: "Lorem ipsum dolor sit amet.",
         price: "200",
-        img:"../images/shopeefemale15.png",
+        img:"./images/shopeefemale15.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale13.png",},
+                image: "./images/shopeefemale13.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale20.png",},
+                image: "./images/shopeefemale20.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale15.png",},
+                image: "./images/shopeefemale15.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale1.png",},
+                image: "./images/shopeefemale1.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale1.png",},
+                image: "./images/shopeefemale1.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale13.png",},
+                image: "./images/shopeefemale13.png",},
         
         ],
     },
@@ -665,31 +665,31 @@ const clothingWomen = [
         name: "clothes p",
         info: "Lorem ipsum dolor sit amet.",
         price: "100",
-        img:"../images/shopeefemale16.png",
+        img:"./images/shopeefemale16.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale16.png",},
+                image: "./images/shopeefemale16.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale12.png",},
+                image: "./images/shopeefemale12.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale21.png",},
+                image: "./images/shopeefemale21.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale22.png",},
+                image: "./images/shopeefemale22.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale16.png",},
+                image: "./images/shopeefemale16.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale5.png",},
+                image: "./images/shopeefemale5.png",},
         
         ],
     },
@@ -698,31 +698,31 @@ const clothingWomen = [
         name: "clothes q",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale17.png",
+        img:"./images/shopeefemale17.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale17.png",},
+                image: "./images/shopeefemale17.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale10.png",},
+                image: "./images/shopeefemale10.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale14.png",},
+                image: "./images/shopeefemale14.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemalemodel18.png",},
+                image: "./images/shopeefemalemodel18.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
         ],
     },
@@ -731,31 +731,31 @@ const clothingWomen = [
         name: "clothes r",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeefemale18.png",
+        img:"./images/shopeefemale18.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale9.png",},
+                image: "./images/shopeefemale9.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale10.png",},
+                image: "./images/shopeefemale10.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale14.png",},
+                image: "./images/shopeefemale14.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemalemode18.png",},
+                image: "./images/shopeefemalemode18.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale18.png",},
+                image: "./images/shopeefemale18.png",},
         
         ],
     },
@@ -764,31 +764,31 @@ const clothingWomen = [
         name: "clothes s",
         info: "Lorem ipsum dolor sit amet.",
         price: "300",
-        img:"../images/shopeefemale19.png",
+        img:"./images/shopeefemale19.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale19.png",},
+                image: "./images/shopeefemale19.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale20.png",},
+                image: "./images/shopeefemale20.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale15.png",},
+                image: "./images/shopeefemale15.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale1.png",},
+                image: "./images/shopeefemale1.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemalemode1.png",},
+                image: "./images/shopeefemalemode1.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale13.png",},
+                image: "./images/shopeefemale13.png",},
         
         ],
     },
@@ -797,31 +797,31 @@ const clothingWomen = [
         name: "clothes t",
         info: "Lorem ipsum dolor sit amet.",
         price: "320",
-        img:"../images/shopeefemale20.png",
+        img:"./images/shopeefemale20.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale19.png",},
+                image: "./images/shopeefemale19.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale20.png",},
+                image: "./images/shopeefemale20.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale15.png",},
+                image: "./images/shopeefemale15.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemalemode1.png",},
+                image: "./images/shopeefemalemode1.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemalemode1.png",},
+                image: "./images/shopeefemalemode1.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale13.png",},
+                image: "./images/shopeefemale13.png",},
         
         ],
     },
@@ -830,31 +830,31 @@ const clothingWomen = [
         name: "clothes u",
         info: "Lorem ipsum dolor sit amet.",
         price: "220",
-        img:"../images/shopeefemale21.png",
+        img:"./images/shopeefemale21.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale1.png",},
+                image: "./images/shopeefemale1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale12.png",},
+                image: "./images/shopeefemale12.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale21.png",},
+                image: "./images/shopeefemale21.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale22.png",},
+                image: "./images/shopeefemale22.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale16.png",},
+                image: "./images/shopeefemale16.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale5.png",},
+                image: "./images/shopeefemale5.png",},
         
     ],
     },
@@ -863,31 +863,31 @@ const clothingWomen = [
         name: "clothes v",
         info: "Lorem ipsum dolor sit amet.",
         price: "100",
-        img:"../images/shopeefemale22.png",
+        img:"./images/shopeefemale22.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeefemale1.png",},
+                image: "./images/shopeefemale1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeefemale12.png",},
+                image: "./images/shopeefemale12.png",},
         
           
             {   id: 2,
-                image: "../images/shopeefemale21.png",},
+                image: "./images/shopeefemale21.png",},
         
           
             {   id: 3,
-                image: "../images/shopeefemale22.png",},
+                image: "./images/shopeefemale22.png",},
         
           
             {   id: 4,
-                image: "../images/shopeefemale16.png",},
+                image: "./images/shopeefemale16.png",},
         
           
             {   id: 5,
-                image: "../images/shopeefemale5.png",},
+                image: "./images/shopeefemale5.png",},
         
     ],
     }
@@ -900,30 +900,30 @@ const clothingMens = [
         name: "man clothes A",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeemale1.png",
+        img:"./images/shopeemale1.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale1.png",},
+                image: "./images/shopeemale1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale5.png",},
+                image: "./images/shopeemale5.png",},
           
             {   id: 2,
-                image: "../images/shopeemale9.png",},
+                image: "./images/shopeemale9.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale10.png",},
+                image: "./images/shopeemale10.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale11.png",},
+                image: "./images/shopeemale11.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale15.png",},
+                image: "./images/shopeemale15.png",},
         
         ],
     },
@@ -932,30 +932,30 @@ const clothingMens = [
         name: "man clothes b",
         info: "Lorem ipsum dolor sit amet.",
         price: "220",
-        img:"../images/shopeemale2.png",
+        img:"./images/shopeemale2.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale2.png",},
+                image: "./images/shopeemale2.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale3.png",},
+                image: "./images/shopeemale3.png",},
           
             {   id: 2,
-                image: "../images/shopeemale6.png",},
+                image: "./images/shopeemale6.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale8.png",},
+                image: "./images/shopeemale8.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale14.png",},
+                image: "./images/shopeemale14.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale16.png",},
+                image: "./images/shopeemale16.png",},
         
         ],
     },
@@ -964,30 +964,30 @@ const clothingMens = [
         name: "man clothes c",
         info: "Lorem ipsum dolor sit amet.",
         price: "100",
-        img:"../images/shopeemale3.png",
+        img:"./images/shopeemale3.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale2.png",},
+                image: "./images/shopeemale2.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale3.png",},
+                image: "./images/shopeemale3.png",},
           
             {   id: 2,
                 image: "../images/shopeemale6.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale8.png",},
+                image: "./images/shopeemale8.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale14.png",},
+                image: "./images/shopeemale14.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale16.png",},
+                image: "./images/shopeemale16.png",},
         
         ],
     },
@@ -996,22 +996,22 @@ const clothingMens = [
         name: "man clothes d",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeemale4.png",
+        img:"./images/shopeemale4.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale4.png",},
+                image: "./images/shopeemale4.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale7.png",},
+                image: "./images/shopeemale7.png",},
           
             {   id: 2,
-                image: "../images/shopeemale12.pngg",},
+                image: "./images/shopeemale12.pngg",},
         
           
             {   id: 3,
-                image: "../images/shopeemale13.png",},
+                image: "./images/shopeemale13.png",},
         
         
         ],
@@ -1021,30 +1021,30 @@ const clothingMens = [
         name: "man clothes e",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeemale5.png",
+        img:"./images/shopeemale5.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale1.pngg",},
+                image: "./images/shopeemale1.pngg",},
         
           
             {   id: 1,
-                image: "../images/shopeemale5.png",},
+                image: "./images/shopeemale5.png",},
           
             {   id: 2,
-                image: "../images/shopeemale9.png",},
+                image: "./images/shopeemale9.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale10.png",},
+                image: "./images/shopeemale10.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale11.png",},
+                image: "./images/shopeemale11.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale15.png",},
+                image: "./images/shopeemale15.png",},
         
         ],
     },
@@ -1053,30 +1053,30 @@ const clothingMens = [
         name: "man clothes f",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeemale6.png",
+        img:"./images/shopeemale6.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale2.png",},
+                image: "./images/shopeemale2.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale3.png",},
+                image: "./images/shopeemale3.png",},
           
             {   id: 2,
-                image: "../images/shopeemale6.png",},
+                image: "./images/shopeemale6.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale8.png",},
+                image: "./images/shopeemale8.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale14.png",},
+                image: "./images/shopeemale14.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale16.png",},
+                image: "./images/shopeemale16.png",},
         
         ],
     },
@@ -1085,22 +1085,22 @@ const clothingMens = [
         name: "man clothes g",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeemale7.png",
+        img:"./images/shopeemale7.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale4.png",},
+                image: "./images/shopeemale4.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale7.png",},
+                image: "./images/shopeemale7.png",},
           
             {   id: 2,
-                image: "../images/shopeemale12.png",},
+                image: "./images/shopeemale12.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale13.png",},
+                image: "./images/shopeemale13.png",},
         
         
         ],
@@ -1110,30 +1110,30 @@ const clothingMens = [
         name: "man clothes h",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeemale8.png",
+        img:"./images/shopeemale8.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale2.png",},
+                image: "./images/shopeemale2.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale3.png",},
+                image: "./images/shopeemale3.png",},
           
             {   id: 2,
-                image: "../images/shopeemale6.png",},
+                image: "./images/shopeemale6.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale8.png",},
+                image: "./images/shopeemale8.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale14.png",},
+                image: "./images/shopeemale14.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale16.png",},
+                image: "./images/shopeemale16.png",},
         
         ],
     },
@@ -1142,30 +1142,30 @@ const clothingMens = [
         name: "man clothes i",
         info: "Lorem ipsum dolor sit amet.",
         price: "220",
-        img:"../images/shopeemale9.png",
+        img:"./images/shopeemale9.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale1.png",},
+                image: "./images/shopeemale1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale5.png",},
+                image: "./images/shopeemale5.png",},
           
             {   id: 2,
-                image: "../images/shopeemale9.png",},
+                image: "./images/shopeemale9.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale10.png",},
+                image: "./images/shopeemale10.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale11.png",},
+                image: "./images/shopeemale11.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale15.png",},
+                image: "./images/shopeemale15.png",},
         
         ],
     },
@@ -1178,26 +1178,26 @@ const clothingMens = [
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale1.png",},
+                image: "./images/shopeemale1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale5.png",},
+                image: "./images/shopeemale5.png",},
           
             {   id: 2,
-                image: "../images/shopeemale9.png",},
+                image: "./images/shopeemale9.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale10.png",},
+                image: "./images/shopeemale10.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale11.png",},
+                image: "./images/shopeemale11.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale15.pngg",},
+                image: "./images/shopeemale15.pngg",},
         
         ],
     },
@@ -1206,30 +1206,30 @@ const clothingMens = [
         name: "man clothes k",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeemale11.png",
+        img:"./images/shopeemale11.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale11.png",},
+                image: "./images/shopeemale11.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale5.png",},
+                image: "./images/shopeemale5.png",},
           
             {   id: 2,
-                image: "../images/shopeemale9.png",},
+                image: "./images/shopeemale9.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale10.png",},
+                image: "./images/shopeemale10.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale11.png",},
+                image: "./images/shopeemale11.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale13.png",},
+                image: "./images/shopeemale13.png",},
         
         ],
     },
@@ -1238,22 +1238,22 @@ const clothingMens = [
         name: "man clothes l",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeemale12.png",
+        img:"./images/shopeemale12.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale4.png",},
+                image: "./images/shopeemale4.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale7.png",},
+                image: "./images/shopeemale7.png",},
           
             {   id: 2,
-                image: "../images/shopeemale12.png",},
+                image: "./images/shopeemale12.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale13.png",},
+                image: "./images/shopeemale13.png",},
         
         
         ],
@@ -1263,22 +1263,22 @@ const clothingMens = [
         name: "man clothes m",
         info: "Lorem ipsum dolor sit amet.",
         price: "320",
-        img:"../images/shopeemale13.png",
+        img:"./images/shopeemale13.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale4.png",},
+                image: "./images/shopeemale4.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale7.png",},
+                image: "./images/shopeemale7.png",},
           
             {   id: 2,
-                image: "../images/shopeemale12.png",},
+                image: "./images/shopeemale12.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale13.png",},
+                image: "./images/shopeemale13.png",},
         
         
         ],
@@ -1288,30 +1288,30 @@ const clothingMens = [
         name: "man clothes n",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeemale14.png",
+        img:"./images/shopeemale14.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale2.png",},
+                image: "./images/shopeemale2.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale3.png",},
+                image: "./images/shopeemale3.png",},
           
             {   id: 2,
-                image: "../images/shopeemale6.png",},
+                image: "./images/shopeemale6.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale8.png",},
+                image: "./images/shopeemale8.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale14.png",},
+                image: "./images/shopeemale14.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale16.png",},
+                image: "./images/shopeemale16.png",},
         
         ],
     },
@@ -1320,30 +1320,30 @@ const clothingMens = [
         name: "man clothes o",
         info: "Lorem ipsum dolor sit amet.",
         price: "200",
-        img:"../images/shopeemale15.png",
+        img:"./images/shopeemale15.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale15.png",},
+                image: "./images/shopeemale15.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale5.png",},
+                image: "./images/shopeemale5.png",},
           
             {   id: 2,
-                image: "../images/shopeemale9.png",},
+                image: "./images/shopeemale9.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale10.png",},
+                image: "./images/shopeemale10.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale11.png",},
+                image: "./images/shopeemale11.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale15.png",},
+                image: "./images/shopeemale15.png",},
         
         ],
     },
@@ -1352,30 +1352,30 @@ const clothingMens = [
         name: "man clothes p",
         info: "Lorem ipsum dolor sit amet.",
         price: "100",
-        img:"../images/shopeemale16.png",
+        img:"./images/shopeemale16.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeemale16.png",},
+                image: "./images/shopeemale16.png",},
         
           
             {   id: 1,
-                image: "../images/shopeemale3.png",},
+                image: "./images/shopeemale3.png",},
           
             {   id: 2,
-                image: "../images/shopeemale6.png",},
+                image: "./images/shopeemale6.png",},
         
           
             {   id: 3,
-                image: "../images/shopeemale8.png",},
+                image: "./images/shopeemale8.png",},
         
           
             {   id: 4,
-                image: "../images/shopeemale14.png",},
+                image: "./images/shopeemale14.png",},
         
           
             {   id: 5,
-                image: "../images/shopeemale16.png",},
+                image: "./images/shopeemale16.png",},
         
         ],
     },
@@ -1388,30 +1388,30 @@ const bags = [
         name: "woamas bags a",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
-        img:"../images/shopeebag1.png",
+        img:"./images/shopeebag1.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeebag1.png",},
+                image: "./images/shopeebag1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeebag2.png",},
+                image: "./images/shopeebag2.png",},
           
             {   id: 2,
-                image: "../images/shopeebag3.png",},
+                image: "./images/shopeebag3.png",},
         
           
             {   id: 3,
-                image: "../images/shopeebag4.png",},
+                image: "./images/shopeebag4.png",},
         
           
             {   id: 4,
-                image: "../images/shopeebaggroup.png",},
+                image: "./images/shopeebaggroup.png",},
         
           
             {   id: 5,
-                image: "../images/png/shopeebaggroup2.png",},
+                image: "./images/png/shopeebaggroup2.png",},
         
         ],
     },
@@ -1420,30 +1420,30 @@ const bags = [
         name: "woamas bags b",
         info: "Lorem ipsum dolor sit amet.",
         price: "320",
-        img:"../images/shopeebag2.png",
+        img:"./images/shopeebag2.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeebag1.png",},
+                image: "./images/shopeebag1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeebag2.png",},
+                image: "./images/shopeebag2.png",},
           
             {   id: 2,
-                image: "../images/shopeebag3.png",},
+                image: "./images/shopeebag3.png",},
         
           
             {   id: 3,
-                image: "../images/shopeebag4.png",},
+                image: "./images/shopeebag4.png",},
         
           
             {   id: 4,
-                image: "../images/shopeebaggroup.png",},
+                image: "./images/shopeebaggroup.png",},
         
           
             {   id: 5,
-                image: "../images/png/shopeebaggroup2.png",},
+                image: "./images/png/shopeebaggroup2.png",},
             ]
     },
     {
@@ -1451,30 +1451,30 @@ const bags = [
         name: "woamas bags c",
         info: "Lorem ipsum dolor sit amet.",
         price: "200",
-        img:"../images/shopeebag3.png",
+        img:"./images/shopeebag3.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeebag1.png",},
+                image: "./images/shopeebag1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeebag2.png",},
+                image: "./images/shopeebag2.png",},
           
             {   id: 2,
-                image: "../images/shopeebag3.png",},
+                image: "./images/shopeebag3.png",},
         
           
             {   id: 3,
-                image: "../images/shopeebag4.png",},
+                image: "./images/shopeebag4.png",},
         
           
             {   id: 4,
-                image: "../images/shopeebaggroup.png",},
+                image: "./images/shopeebaggroup.png",},
         
           
             {   id: 5,
-                image: "../images/png/shopeebaggroup2.png",},
+                image: "./images/png/shopeebaggroup2.png",},
             ]
     },
     {
@@ -1482,30 +1482,30 @@ const bags = [
         name: "woamas bags d",
         info: "Lorem ipsum dolor sit amet.",
         price: "100",
-        img:"../images/shopeebag4.png",
+        img:"./images/shopeebag4.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeebag1.png",},
+                image: "./images/shopeebag1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeebag2.png",},
+                image: "./images/shopeebag2.png",},
           
             {   id: 2,
-                image: "../images/shopeebag3.png",},
+                image: "./images/shopeebag3.png",},
         
           
             {   id: 3,
-                image: "../images/shopeebag4.png",},
+                image: "./images/shopeebag4.png",},
         
           
             {   id: 4,
-                image: "../images/shopeebaggroup.png",},
+                image: "./images/shopeebaggroup.png",},
         
           
             {   id: 5,
-                image: "../images/png/shopeebaggroup2.png",},
+                image: "./images/png/shopeebaggroup2.png",},
             ]
     },
     {
@@ -1513,30 +1513,30 @@ const bags = [
         name: "woamas bags e",
         info: "Lorem ipsum dolor sit amet.",
         price: "220",
-        img:"../images/shopeebaggroup.png",
+        img:"./images/shopeebaggroup.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeebag1.png",},
+                image: "./images/shopeebag1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeebag2.png",},
+                image: "./images/shopeebag2.png",},
           
             {   id: 2,
-                image: "../images/shopeebag3.png",},
+                image: "./images/shopeebag3.png",},
         
           
             {   id: 3,
-                image: "../images/shopeebag4.png",},
+                image: "./images/shopeebag4.png",},
         
           
             {   id: 4,
-                image: "../images/shopeebaggroup.png",},
+                image: "./images/shopeebaggroup.png",},
         
           
             {   id: 5,
-                image: "../images/png/shopeebaggroup2.png",},
+                image: "./images/png/shopeebaggroup2.png",},
             ]
     },
     {
@@ -1544,30 +1544,30 @@ const bags = [
         name: "woamas bags f",
         info: "Lorem ipsum dolor sit amet.",
         price: "220",
-        img: "../images/shopeebaggroup2.png",
+        img: "./images/shopeebaggroup2.png",
         images:[
               
             {   id: 0,
-                image: "../images/shopeebag1.png",},
+                image: "./images/shopeebag1.png",},
         
           
             {   id: 1,
-                image: "../images/shopeebag2.png",},
+                image: "./images/shopeebag2.png",},
           
             {   id: 2,
-                image: "../images/shopeebag3.png",},
+                image: "./images/shopeebag3.png",},
         
           
             {   id: 3,
-                image: "../images/shopeebag4.png",},
+                image: "./images/shopeebag4.png",},
         
           
             {   id: 4,
-                image: "../images/shopeebaggroup.png",},
+                image: "./images/shopeebaggroup.png",},
         
           
             {   id: 5,
-                image: "../images/shopeebaggroup2.png",},
+                image: "./images/shopeebaggroup2.png",},
             ]
     },
 
@@ -1580,119 +1580,119 @@ const shoes = [
         name: " shoes apparell a",
         info: "Lorem ipsum dolor sit amet.",
         price: "1200",
-        img:"../images/shopeeshoe1.png",
+        img:"./images/shopeeshoe1.png",
     },
     {
         id: 2,
         name: " shoes apparell b",
         info: "Lorem ipsum dolor sit amet.",
         price: "1200",
-        img:"../images/shopeeshoe2.png",
+        img:"./images/shopeeshoe2.png",
     },
     {
         id: 3,
         name: " shoes apparell c",
         info: "Lorem ipsum dolor sit amet.",
         price: "4000",
-        img:"../images/shopeeshoe3.png",
+        img:"./images/shopeeshoe3.png",
     },
     {
         id: 4,
         name: " shoes apparell d",
         info: "Lorem ipsum dolor sit amet.",
         price: "1200",
-        img:"../images/shopeeshoe4.png",
+        img:"./images/shopeeshoe4.png",
     },
     {
         id: 5,
         name: " shoes apparell e",
         info: "Lorem ipsum dolor sit amet.",
         price: "1200",
-        img:"../images/shopeeshoe5.png",
+        img:"./images/shopeeshoe5.png",
     },
     {
         id: 6,
         name: " shoes apparell f",
         info: "Lorem ipsum dolor sit amet.",
         price: "2020",
-        img:"../images/shopeeshoe6.png",
+        img:"./images/shopeeshoe6.png",
     },
     {
         id: 7,
         name: " shoes apparell g",
         info: "Lorem ipsum dolor sit amet.",
         price: "1200",
-        img:"../images/shopeeshoe7.png",
+        img:"./images/shopeeshoe7.png",
     },
     {
         id: 8,
         name: " shoes apparell h",
         info: "Lorem ipsum dolor sit amet.",
         price: "3203",
-        img:"../images/shopeeshoe8.png",
+        img:"./images/shopeeshoe8.png",
     },
     {
         id: 9,
         name: " shoes apparell i",
         info: "Lorem ipsum dolor sit amet.",
         price: "1200",
-        img:"../images/shopeeshoe9.png",
+        img:"./images/shopeeshoe9.png",
     },
     {
         id: 10,
         name: " shoes apparell j",
         info: "Lorem ipsum dolor sit amet.",
         price: "1200",
-        img:"../images/shopeeshoe10.png",
+        img:"./images/shopeeshoe10.png",
     },
     {
         id: 11,
         name: " shoes apparell k",
         info: "Lorem ipsum dolor sit amet.",
         price: "1200",
-        img:"../images/shopeeshoe12.png",
+        img:"./images/shopeeshoe12.png",
     },
     {
         id: 12,
         name: " shoes apparell l",
         info: "Lorem ipsum dolor sit amet.",
         price: "1020",
-        img:"../images/shopeeshoe13.png",
+        img:"./images/shopeeshoe13.png",
     },
     {
         id: 13,
         name: " shoes apparell m",
         info: "Lorem ipsum dolor sit amet.",
         price: "5200",
-        img:"../images/shopeeshoe14.png",
+        img:"./images/shopeeshoe14.png",
     },
     {
         id: 14,
         name: " shoes apparell n",
         info: "Lorem ipsum dolor sit amet.",
         price: "2220",
-        img:"../images/shopeeshoe15.png",
+        img:"./images/shopeeshoe15.png",
     },
     {
         id: 15,
         name: " shoes apparell o",
         info: "Lorem ipsum dolor sit amet.",
         price: "1200",
-        img:"../images/shopeeshoe16.png",
+        img:"./images/shopeeshoe16.png",
     },
     {
         id: 16,
         name: " shoes apparell p",
         info: "Lorem ipsum dolor sit amet.",
         price: "1200",
-        img:"../images/shopeeshoe17.png",
+        img:"./images/shopeeshoe17.png",
     },
     {
         id: 17,
         name: " shoes apparell q",
         info: "Lorem ipsum dolor sit amet.",
         price: "2020",
-        img:"../images/shopeeshoe18.png",
+        img:"./images/shopeeshoe18.png",
     },
 
 
