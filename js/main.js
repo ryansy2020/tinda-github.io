@@ -12,7 +12,7 @@ const videoSection = document.querySelector(".ads-section")
 
 navToggle.addEventListener("click", function() {
     
-    console.log("navlink");
+
     nav.classList.toggle("show-nav")
 
 })
@@ -30,7 +30,7 @@ const navLink = document.querySelectorAll(".link-list")
 // console.log(videoControler);
 const videoHeight = videoSection.getBoundingClientRect().height
 
-console.log(videoSection);
+
 
     if (pageScroll >= navHeight ) {
         
@@ -2214,7 +2214,7 @@ function showModalBag(bagId) {
     imgItem .forEach(function(ids) {
         
         ids.addEventListener("click", function(e) {
-            console.log(e.currentTarget.dataset.id);
+         
 
             const count = e.currentTarget.dataset.id
             currentId = `${count}`
