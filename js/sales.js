@@ -188,21 +188,21 @@ const headerPhoneArr = [
 
     {
         id: 1,
-        img: "../images/png/apsp-nokia-c.png",
+        img: "../images/apsp-nokia-c.png",
         title: "apsp nokia c",
         price: "10,000",
     
     },
     {
         id: 2,
-        img: "../images/png/apsp-oneplus-nord.png",
+        img: "../images/apsp-oneplus-nord.png",
         title:" apsp oneplus nord",
         price: "10,000",
     
     },
     {
         id: 3,
-        img: "../images/png/apsp-realme.png",
+        img: "../images/apsp-realme.png",
         title: "apsp realme",
         price: "10,000",
     
