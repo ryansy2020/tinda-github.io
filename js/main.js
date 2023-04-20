@@ -8,7 +8,7 @@ const socialIcon = document.querySelector(".social-Icon")
 const tindaLogo = document.querySelector(".tinda-logo")
 const videoSection = document.querySelector(".ads-section")
 
-// console.log(videoControler.scrollHeight);
+
 
 navToggle.addEventListener("click", function() {
     
@@ -27,7 +27,7 @@ window.addEventListener("scroll", function() {
 const pageScroll = window.pageYOffset
 const navHeight = nav.getBoundingClientRect().height
 const navLink = document.querySelectorAll(".link-list")
-// console.log(videoControler);
+
 const videoHeight = videoSection.getBoundingClientRect().height
 
 
@@ -70,8 +70,7 @@ const videoHeight = videoSection.getBoundingClientRect().height
         volume = "muted"
         videoAds(videoArry)
     }
-    // console.log(pageScroll);
-    // console.log(optionPlay);
+
 })
 
 // header slider --------
