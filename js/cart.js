@@ -22,7 +22,7 @@ const socialIcon = document.querySelector(".social-Icon")
 
 navToggle.addEventListener("click", function() {
     
-    console.log("navlink");
+
     nav.classList.toggle("show-nav")
 
 })
@@ -121,7 +121,7 @@ function createCartList(id, value) {
     const cartTitle = document.querySelector(".cart-title")
 
     if (item.name.textContent == value[0].name) {
-        console.log("ay kopya");
+       
     }
 
     const totalPrice = document.querySelector(".total-price")
@@ -318,8 +318,7 @@ function toLocalStorage(id, value) {
 // -----REmove Btn----
 
 function removeBtn(e) {
-    console.log(e.currentTarget.parentElement.parentElement.parentElement
-        .parentElement);
+
 
         const cartElement = e.currentTarget.parentElement.parentElement
         .parentElement.parentElement
@@ -430,7 +429,7 @@ CODBtn.addEventListener("click", function() {
 
     purchaseBoxModal.classList.add("hide-purchase")
     CODModal.classList.add("show-modal-COD")
-    console.log("hi");
+
     
 })
 
