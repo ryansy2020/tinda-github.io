@@ -1817,7 +1817,7 @@ function showManItems(items) {
    btnInfo.forEach(function(btn) {
 
         btn.addEventListener("click", function(e) {
-            console.log(e.currentTarget.dataset.id);
+        
             const itemId = e.currentTarget.dataset.id
 
             countId = `${itemId}`
@@ -1867,7 +1867,7 @@ function showBagItems(items) {
     btnInfo.forEach(function(btns) {
  
      btns.addEventListener("click", function(e) {
-         console.log(e.currentTarget.dataset.id);
+
 
          const bagItemId = e.currentTarget.dataset.id
 
@@ -2106,7 +2106,7 @@ function showModalman(menId) {
     imgItem .forEach(function(ids) {
         
         ids.addEventListener("click", function(e) {
-            console.log(e.currentTarget.dataset.id);
+          
 
             const count = e.currentTarget.dataset.id
             currentId = `${count}`
@@ -2395,7 +2395,7 @@ function videoAds(ads) {
         videoRoll.forEach(function(btns) {
             
             btns.addEventListener("click", function(e) {
-                console.log(e.currentTarget.dataset.id);
+            
                 const countVideo = e.currentTarget.dataset.id
 
                 currentVideo = `${countVideo}`-1
