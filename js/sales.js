@@ -19,7 +19,7 @@ let controler = "none"
 
 navToggle.addEventListener("click", function() {
     
-    console.log("navlink");
+ 
     nav.classList.toggle("show-nav")
 
 })
@@ -38,7 +38,7 @@ window.addEventListener("scroll", function() {
 
     // console.log(videoControler);
 
-    console.log(headerHeight);
+
    
     
         if (pageScroll >= navHeight ) {
@@ -369,7 +369,7 @@ function phoneDisplay(items) {
     // -----------phone header Btn ----------
 const phoneDescBtn = document.querySelector(".phone-desc-btn")
 
-console.log(phoneDescBtn);
+
 
 let btnPhone = headerPhoneArr.map(function(list) {
     return` <div class="phone-btn" data-id="${list.id}">
