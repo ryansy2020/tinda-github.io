@@ -10,8 +10,7 @@ const socialIcon = document.querySelector(".social-Icon")
 const tindaLogo = document.querySelector(".tinda-logo")
 
 navToggle.addEventListener("click", function() {
-    
-    console.log("navlink");
+   
     nav.classList.toggle("show-nav")
 
 })
@@ -1753,7 +1752,7 @@ function womanSlider(womanID) {
         const dataId = e.currentTarget.dataset.id
 
         countId = `${dataId}`
-        console.log(countId);
+       
         const mapItem = womanID.filter(function(target) {
             return target.id == `${countId}`
         })
@@ -1806,7 +1805,7 @@ function manSlider(itemID) {
          const dataId = e.currentTarget.dataset.id
  
          countId = `${dataId}`
-         console.log(countId);
+   
          const mapItem = itemID.filter(function(target) {
              return target.id == `${countId}`
          })
@@ -1861,7 +1860,7 @@ function bagSlider(itemID) {
          const dataId = e.currentTarget.dataset.id
  
          countId = `${dataId}`
-         console.log(countId);
+  
          const mapItem = itemID.filter(function(target) {
              return target.id == `${countId}`
          })
@@ -1991,7 +1990,6 @@ function showModalDisplay(itemsID) {
     womanModal =womanModal.join("")
     modalContainer.innerHTML = womanModal
 
-    console.log(modalContainer.innerHTML = womanModal);
 
     const cartBtn = document.querySelectorAll(".add-cart")
 
@@ -2012,7 +2010,7 @@ function showModalDisplay(itemsID) {
     imgItem .forEach(function(ids) {
         
         ids.addEventListener("click", function(e) {
-            console.log(e.currentTarget.dataset.id);
+  
 
             const count = e.currentTarget.dataset.id
             currentId = `${count}`
@@ -2093,7 +2091,6 @@ function showModalShoes(itemsID) {
     womanModal =womanModal.join("")
     modalContainer.innerHTML = womanModal
 
-    console.log(modalContainer.innerHTML = womanModal);
 
     const cartBtn = document.querySelectorAll(".add-cart")
 
