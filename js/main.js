@@ -81,31 +81,31 @@ const people = [
 
     { 
         id: 1,
-        img: "../images/model1.png",
+        img: "./images/model1.png",
         title: "clothing",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 2,
-        img: "../images/model2.png",
+        img: "./images/model2.png",
         title: "accesories",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 3,
-        img: "../images/model3.png",
+        img: "./images/model3.png",
         title: "accesories",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 4,
-        img: "../images/model4.png",
+        img: "./images/model4.png",
         title: "accesories",
         desk: "Lorem ipsum dolor sit amet.",
     },
     {
         id: 5,
-        img: "../images/model8.png",
+        img: "./images/model8.png",
         title: "accesories",
         desk: "Lorem ipsum dolor sit amet.",
     },
@@ -169,19 +169,19 @@ const videoArry = [
 
     {
         id: 1,
-        link: "../video/video2.mp4",
+        link: "./video/video2.mp4",
         title: "ads is her just wait",
         desc: "lorem impsum shtity madah fuckerssss",
     },
     {
         id: 2,
-        link: "../video/video1.mp4",
+        link: "./video/video1.mp4",
         title: "just keep waiting your luck will come soon",
         desc: "lorem impsum shtity madah fuckerssss",
     },
     {
         id: 3,
-        link: "../video/video3.mp4",
+        link: "./video/video3.mp4",
         title: "the more you wait the time is keep getting slower so just play around",
         desc: "lorem impsum shtity madah fuckerssss",
     },
@@ -194,6 +194,7 @@ const clothingWomen = [
         name: "clothes A",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
+<<<<<<< HEAD
         img: "../images/shopeefemale1.png",
         images:[
               
@@ -219,6 +220,33 @@ const clothingWomen = [
           
             {   id: 5,
                 image: "../images/shopeefemale5.png",},
+=======
+        img: "./images/png/Shopee_female1.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female1.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female12.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female21.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_female22.png",},
+        
+          
+            {   id: 4,
+                image: "./images/png/Shopee_female16.png",},
+        
+          
+            {   id: 5,
+                image: "./images/png/Shopee_femalemode5.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -227,6 +255,7 @@ const clothingWomen = [
         name: "clothes B",
         info: "Lorem ipsum dolor sit amet.",
         price: "220",
+<<<<<<< HEAD
         img:"../images/shopeefemale2.png",
         images:[
               
@@ -252,6 +281,33 @@ const clothingWomen = [
           
             {   id: 5,
                 image: "../images/shopeefemale9.png",},
+=======
+        img:"./images/png/Shopee_female2.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female2.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female11.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_femalemode9.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_femalemodel3.png",},
+        
+          
+            {   id: 4,
+                image: "./images/png/Shopee_female11.png",},
+        
+          
+            {   id: 5,
+                image: "./images/png/Shopee_femalemode9.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -260,6 +316,7 @@ const clothingWomen = [
         name: "clothes c",
         info: "Lorem ipsum dolor sit amet.",
         price: "100",
+<<<<<<< HEAD
         img:"../images/shopeefemale3.png",
         images:[
               
@@ -277,6 +334,25 @@ const clothingWomen = [
           
             {   id:3,
                 image: "../images/shopeefemale5.png",},
+=======
+        img:"./images/png/Shopee_female3.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female3.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female4.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female5.png",},
+        
+          
+            {   id:3,
+                image: "./images/png/Shopee_femalemode8.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -289,6 +365,7 @@ const clothingWomen = [
         images:[
               
             {   id: 0,
+<<<<<<< HEAD
                 image: "../images/shopeefemale3.png",},
         
           
@@ -302,6 +379,21 @@ const clothingWomen = [
           
             {   id:3,
                 image: "../images/shopeefemale8.png",},
+=======
+                image: "./images/png/Shopee_female3.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female4.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female5.png",},
+        
+          
+            {   id:3,
+                image: "./images/png/Shopee_femalemode8.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -310,6 +402,7 @@ const clothingWomen = [
         name: "clothes e",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
+<<<<<<< HEAD
         img:"../images/shopeefemale5.png",
         images:[
               
@@ -327,6 +420,25 @@ const clothingWomen = [
           
             {   id:3,
                 image: "../images/shopeefemale8.png",},
+=======
+        img:"./images/png/Shopee_female5.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female3.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female4.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female5.png",},
+        
+          
+            {   id:3,
+                image: "./images/png/Shopee_femalemode8.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -335,6 +447,7 @@ const clothingWomen = [
         name: "clothes f",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
+<<<<<<< HEAD
         img:"../images/shopeefemale6.png",
         images:[
               
@@ -360,6 +473,33 @@ const clothingWomen = [
           
             {   id: 5,
                 image: "../images/shopeefemale5.png",},
+=======
+        img:"./images/png/Shopee_female6.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female6.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female12.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female21.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_female22.png",},
+        
+          
+            {   id: 4,
+                image: "./images/png/Shopee_female16.png",},
+        
+          
+            {   id: 5,
+                image: "./images/png/Shopee_femalemode5.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -368,6 +508,7 @@ const clothingWomen = [
         name: "clothes g",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
+<<<<<<< HEAD
         img:"../images/shopeefemale7.png",
         images:[
               
@@ -393,6 +534,33 @@ const clothingWomen = [
           
             {   id: 5,
                 image: "../images/shopeefemale3.png",},
+=======
+        img:"./images/png/Shopee_female7.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female7.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female20.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female15.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_femalemodel.png",},
+        
+          
+            {   id: 4,
+                image: "./images/png/Shopee_femalemodel.png",},
+        
+          
+            {   id: 5,
+                image: "./images/png/Shopee_female13.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -401,6 +569,7 @@ const clothingWomen = [
         name: "clothes h",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
+<<<<<<< HEAD
         img:"../images/shopeefemale8.png",
         images:[
               
@@ -426,6 +595,33 @@ const clothingWomen = [
           
             {   id: 5,
                 image: "../images/shopeefemale18.png",},
+=======
+        img:"./images/png/Shopee_female8.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female8.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female10.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female14.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_femalemode6.png",},
+        
+          
+            {   id: 4,
+                image: "./images/png/Shopee_femalemodel6.png",},
+        
+          
+            {   id: 5,
+                image: "./images/png/Shopee_female18.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -434,6 +630,7 @@ const clothingWomen = [
         name: "clothes i",
         info: "Lorem ipsum dolor sit amet.",
         price: "220",
+<<<<<<< HEAD
         img:"../images/shopeefemale9.png",
         images:[
               
@@ -459,6 +656,33 @@ const clothingWomen = [
           
             {   id: 5,
                 image: "../images/shopeefemale18.png",},
+=======
+        img:"./images/png/Shopee_female9.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female9.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female10.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female14.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_female18.png",},
+        
+          
+            {   id: 4,
+                image: "./images/png/Shopee_femalemodel6.png",},
+        
+          
+            {   id: 5,
+                image: "./images/png/Shopee_female18.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -467,6 +691,7 @@ const clothingWomen = [
         name: "clothes j",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
+<<<<<<< HEAD
         img:"../images/shopeefemale10.png",
         images:[
               
@@ -492,6 +717,33 @@ const clothingWomen = [
           
             {   id: 5,
                 image: "../images/shopeefemale18.png",},
+=======
+        img:"./images/png/Shopee_female10.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female9.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female10.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female14.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_female18.png",},
+        
+          
+            {   id: 4,
+                image: "./images/png/Shopee_femalemodel8.png",},
+        
+          
+            {   id: 5,
+                image: "./images/png/Shopee_female18.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -500,6 +752,7 @@ const clothingWomen = [
         name: "clothes k",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
+<<<<<<< HEAD
         img:"../images/shopeefemale11.png",
         images:[
               
@@ -525,6 +778,33 @@ const clothingWomen = [
           
             {   id: 5,
                 image: "../images/shopeefemale9.png",},
+=======
+        img:"./images/png/Shopee_female11.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female2.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female11.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_femalemode9.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_femalemodel3.png",},
+        
+          
+            {   id: 4,
+                image: "./images/png/Shopee_female11.png",},
+        
+          
+            {   id: 5,
+                image: "./images/png/Shopee_femalemode9.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -533,6 +813,7 @@ const clothingWomen = [
         name: "clothes l",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
+<<<<<<< HEAD
         img:"../images/shopeefemale12.png",
         images:[
               
@@ -558,6 +839,33 @@ const clothingWomen = [
           
             {   id: 5,
                 image: "../images/shopeefemale5.png",},
+=======
+        img:"./images/png/Shopee_female12.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female1.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female12.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female21.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_female22.png",},
+        
+          
+            {   id: 4,
+                image: "./images/png/Shopee_female16.png",},
+        
+          
+            {   id: 5,
+                image: "./images/png/Shopee_femalemode5.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -566,6 +874,7 @@ const clothingWomen = [
         name: "clothes m",
         info: "Lorem ipsum dolor sit amet.",
         price: "320",
+<<<<<<< HEAD
         img:"../images/shopeefemale13.png",
         images:[
               
@@ -583,14 +892,37 @@ const clothingWomen = [
           
             {   id: 3,
                 image: "../images/shopeefemale1.png",},
+=======
+        img:"./images/png/Shopee_female13.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female13.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female20.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female15.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_femalemodel.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
           
             {   id: 4,
-                image: "../images/png/Shopee_femalemodel.png",},
+                image: "./images/png/Shopee_femalemodel.png",},
         
           
             {   id: 5,
+<<<<<<< HEAD
                 image: "../images/shopeefemale13.png",},
+=======
+                image: "./images/png/Shopee_female13.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -599,6 +931,7 @@ const clothingWomen = [
         name: "clothes n",
         info: "Lorem ipsum dolor sit amet.",
         price: "120",
+<<<<<<< HEAD
         img:"../images/shopeefemale9.png",
         images:[
               
@@ -624,6 +957,33 @@ const clothingWomen = [
           
             {   id: 5,
                 image: "../images/shopeefemale18.png",},
+=======
+        img:"./images/png/Shopee_female14.png",
+        images:[
+              
+            {   id: 0,
+                image: "./images/png/Shopee_female9.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female10.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female14.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_female18.png",},
+        
+          
+            {   id: 4,
+                image: "./images/png/Shopee_femalemodel8.png",},
+        
+          
+            {   id: 5,
+                image: "./images/png/Shopee_female18.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
@@ -636,6 +996,7 @@ const clothingWomen = [
         images:[
               
             {   id: 0,
+<<<<<<< HEAD
                 image: "../images/shopeefemale13.png",},
         
           
@@ -657,6 +1018,29 @@ const clothingWomen = [
           
             {   id: 5,
                 image: "../images/shopeefemale13.png",},
+=======
+                image: "./images/png/Shopee_female13.png",},
+        
+          
+            {   id: 1,
+                image: "./images/png/Shopee_female20.png",},
+        
+          
+            {   id: 2,
+                image: "./images/png/Shopee_female15.png",},
+        
+          
+            {   id: 3,
+                image: "./images/png/Shopee_femalemodel.png",},
+        
+          
+            {   id: 4,
+                image: "./images/png/Shopee_femalemodel.png",},
+        
+          
+            {   id: 5,
+                image: "./images/png/Shopee_female13.png",},
+>>>>>>> 81223df5c3fb4f2143fcb301682347d9aee0c9cf
         
         ],
     },
